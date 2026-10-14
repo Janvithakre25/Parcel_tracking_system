@@ -1,15 +1,12 @@
-# 📦 Courier & Parcel Tracking System (CPTS)
+#  Courier & Parcel Tracking System (CPTS)
 
-[![Software Engineering](https://img.shields.io/badge/Standard-IEEE%20830--1998-blue.svg)](#software-requirements-specification)
-[![Subject](https://img.shields.io/badge/Course-SEPM-green.svg)](#project-information)
-[![Estimation](https://img.shields.io/badge/Model-COCOMO%20Organic-orange.svg)](#project-estimation-cocomo-model)
-[![Platform](https://img.shields.io/badge/Platform-Web%20Application-informational.svg)](#system-architecture)
+
 
 > A comprehensive Software Engineering & Project Management (SEPM) specification and design repository for an end-to-end web-based **Courier & Parcel Tracking System**. Designed in compliance with the **IEEE 830-1998** standard.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
@@ -32,7 +29,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 The **Courier / Parcel Tracking System (CPTS)** is designed to modernize and automate parcel booking, dispatch, real-time tracking, and doorstep delivery confirmation. By replacing manual paperwork and phone inquiries with an intuitive three-tier web application, CPTS ensures complete visibility for customers, streamlined dispatch management for administrators, and robust verification tools for delivery agents.
 
@@ -44,7 +41,7 @@ The **Courier / Parcel Tracking System (CPTS)** is designed to modernize and aut
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Role | Features & Capabilities |
 | :--- | :--- |
@@ -54,7 +51,7 @@ The **Courier / Parcel Tracking System (CPTS)** is designed to modernize and aut
 
 ---
 
-## 🏛️ System Architecture
+##  System Architecture
 
 The system utilizes a modular **Three-Tier Architecture**:
 
@@ -84,7 +81,7 @@ The system utilizes a modular **Three-Tier Architecture**:
 
 ---
 
-## 📊 UML Design & Architectural Diagrams
+##  UML Design & Architectural Diagrams
 
 ### 1. Use Case Diagram
 Illustrates interactions between the primary actors (**Customer**, **Admin**, and **Delivery Agent**) and core system functions.
@@ -161,7 +158,7 @@ Illustrates hardware nodes, web/application servers, database servers, and IoT c
 
 ---
 
-## 🗄️ Data Model & Entities
+## Data Model & Entities
 
 | Entity | Primary Key (PK) | Foreign Keys (FK) | Key Attributes |
 | :--- | :--- | :--- | :--- |
@@ -176,7 +173,7 @@ Illustrates hardware nodes, web/application servers, database servers, and IoT c
 
 ---
 
-## 📈 Project Estimation (COCOMO Model)
+##  Project Estimation (COCOMO Model)
 
 The project scope was estimated using the **Basic COCOMO (Constructive Cost Model)** in **Organic Mode**:
 
@@ -205,7 +202,7 @@ The estimation code is implemented in [`Cocomo_Model.py`](Cocomo_Model.py).
 
 ---
 
-## 📅 Project Schedule (Gantt Chart)
+##  Project Schedule (Gantt Chart)
 
 The project timeline was planned over a 6-week software engineering lifecycle:
 
@@ -228,7 +225,7 @@ Detailed scheduling spreadsheet available in [`Gantt_Chart_Parcel_Tracking_Syste
 
 ---
 
-## 💻 Technology Stack
+##  Technology Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Python (Django / Flask) / PHP / Java
@@ -240,7 +237,7 @@ Detailed scheduling spreadsheet available in [`Gantt_Chart_Parcel_Tracking_Syste
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Parcel_tracking_system/
@@ -265,7 +262,7 @@ Parcel_tracking_system/
 
 ---
 
-## 🚀 Running the Estimation Script
+##  Running the Estimation Script
 
 To run the COCOMO estimation script locally:
 
@@ -297,7 +294,7 @@ COCOMO estimation completed successfully!
 
 ---
 
-## 👩‍💻 Project Information
+##  Project Information
 
 - **Author:** Janvi Thakre
 - **Course:** Software Engineering & Project Management (SEPM)
